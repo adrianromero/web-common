@@ -34,9 +34,9 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>tomcat</groupId>
-      <artifactId>servlet-api</artifactId>
-      <version>5.5.23</version>
+      <groupId>javax</groupId>
+      <artifactId>javaee-web-api</artifactId>
+      <version>6.0</version>
     </dependency>
   </dependencies>
 </project>
